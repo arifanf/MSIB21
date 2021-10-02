@@ -24,9 +24,9 @@ This is my journals bout AI from study independent at OFA
 * Day-21 : 
 * Day-22 : 
 * Day-23 : 
-* Day-24 : 
-* Day-25 : 
+* Day-24 : Supervised Learning - KNN
+* Day-25 : Unsupervised Learning - K Means
 * Day-26 : Deep Learning dan Artificial Neural Network
-* Day-27 : 
-* Day-28 : 
+* Day-27 : Deep Learning dan Artificial Neural Network lanjutan
+* Day-28 : Pameran Project 1 : Trolley + Kelas gabungan (selene)
 * Day-29 : 
