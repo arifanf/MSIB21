@@ -1,11 +1,11 @@
 # MSIB2021
 This is my journals bout AI from study independent at OFA
 
-* Day-1 : National Onboarding and 
-* Day-2 : 
+* Day-1 : National Onboarding dan Introduction OFA
+* Day-2 : Fundamental AI, Diversity of AI, Fundameental ML
 * Day-3 : Intro to Domains AI - DS, NLP, CV
-* Day-4 : 
-* Day-5 : 
+* Day-4 : System thinking and map, impact society of AI
+* Day-5 : Kelas gabungan pagi
 * Day-6 : 
 * Day-7 : 
 * Day-8 : 
