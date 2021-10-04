@@ -29,4 +29,4 @@ This is my journals bout AI from study independent at OFA
 * Day-26 : Deep Learning dan Artificial Neural Network
 * Day-27 : Deep Learning dan Artificial Neural Network lanjutan
 * Day-28 : Pameran Project 1 : Trolley + Kelas gabungan (selene)
-* Day-29 : 
+* Day-29 : Data Science
