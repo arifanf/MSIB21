@@ -1,0 +1,348 @@
+Timestamp,Age,Religion,Ethnic,Educational_Level,Occupation,Social_Class,Monthly_Expenditure_for_Food(%),Type_Makanan,Code_Makanan,Amount_Makanan,Type_Minuman,Code_Minuman,Amount_Minuman,Gender,Payment
+10:01,31,Islam,Java,Senior High School,Private Employees,Lower Class,57,Bakso kuah,1,6,Es teh,1,3,1,DANA
+10:04,36,Islam,Java,Bachelor degree,Private Employees,Lower Class,43,Mie ayam bakso,3,12,Es jeruk,2,10,0,DANA
+10:05,24,Islam,Java,Senior High School,Private Employees,Middle Class,38,Ayam bakar,4,10,Es teh,1,5,0,LINK AJA
+10:06,63,Islam,Other,Senior High School,Private Employees,Lower Class,61,Nasi goreng,2,9,Mineral water,3,9,0,DANA
+10:07,43,Protestant,Batak,Primary School,Government Employees,Lower Class,58,Soto,6,11,Es jeruk,2,3,1,DANA
+10:08,47,Protestant,Java,Senior High School,Government Employees,Lower Class,34,Ayam bakar,4,8,Es teh,1,4,1,DANA
+10:09,28,Catholic,Java,Senior High School,Enterpreneur,Upper Class,26,Bakso kuah,1,7,Es teh,1,7,1,GOPAY
+10:11,48,Islam,Java,Senior High School,Enterpreneur,Lower Class,57,Ayam penyet,5,6,Es teh,1,3,1,TUNAI
+10:12,36,Islam,Java,Senior High School,Enterpreneur,Upper Class,24,Ayam bakar,4,5,Mineral water,3,2,0,TUNAI
+10:16,39,Protestant,Other,Bachelor degree,Private Employees,Upper Class,27,Nasi goreng,2,9,Mineral water,3,9,0,TUNAI
+10:17,53,Catholic,Batak,Master and doctoral degree,Private Employees,Lower Class,67,Mie ayam bakso,3,11,Es jeruk,2,3,1,DANA
+10:19,57,Islam,Java,Primary School,Private Employees,Middle Class,36,Ayam penyet,5,7,Es teh,1,7,1,OVO
+10:20,46,Islam,Java,Bachelor degree,Private Employees,Lower Class,42,Ayam penyet,5,11,Es campur,4,3,0,LINK AJA
+10:24,53,Islam,Java,Bachelor degree,Private Employees,Lower Class,73,Ayam penyet,5,8,Es teh,1,10,0,GOPAY
+10:25,58,Islam,Java,Bachelor degree,Private Employees,Middle Class,41,Bakso kuah,1,7,Es teh,1,5,1,OVO
+10:26,62,Catholic,Java,Senior High School,Private Employees,Middle Class,33,Soto,6,11,Es teh,1,9,0,TUNAI
+10:33,41,Islam,Bugis,Bachelor degree,Teacher?/Lecturer,Upper Class,19,Bakso kuah,1,1,Es teh,1,1,1,GOPAY
+10:37,61,Islam,Java,Primary School,Teacher?/Lecturer,Lower Class,69,Ayam penyet,5,1,Mineral water,3,1,1,DANA
+10:38,23,Islam,Java,Bachelor degree,Government Employees,Upper Class,23,Soto,6,1,Mineral water,3,1,1,LINK AJA
+10:39,27,Protestant,Batak,Senior High School,Government Employees,Upper Class,25,Nasi goreng,2,3,Mineral water,3,3,0,LINK AJA
+10:43,38,Protestant,Batak,Master and doctoral degree,Government Employees,Lower Class,57,Mie ayam bakso,3,9,Es jeruk,2,9,0,LINK AJA
+10:44,24,Protestant,Java,Bachelor degree,Government Employees,Upper Class,43,Soto,6,3,Es teh,1,3,0,DANA
+10:45,33,Islam,Batak,Senior High School,Government Employees,Lower Class,38,Ayam bakar,4,5,Mineral water,3,5,0,OVO
+10:48,27,Islam,Other,Master and doctoral degree,Police Officer?/Army,Lower Class,61,Ayam penyet,5,5,Es teh,1,5,0,GOPAY
+10:49,54,Islam,Other,Senior High School,Police Officer?/Army,Lower Class,58,Ayam penyet,5,1,Es campur,4,1,0,OVO
+10:53,30,Protestant,Java,Senior High School,Private Employees,Middle Class,34,Nasi goreng,2,7,Es campur,4,2,1,GOPAY
+10:54,61,Catholic,Sunda,Bachelor degree,Private Employees,Upper Class,26,Mie ayam bakso,3,12,Es jeruk,2,10,0,DANA
+10:58,24,Islam,Java,Bachelor degree,Government Employees,Lower Class,57,Ayam bakar,4,8,Es teh,1,4,1,TUNAI
+10:59,33,Islam,Java,Bachelor degree,Police Officer?/Army,Upper Class,24,Ayam penyet,5,7,Es teh,1,7,1,GOPAY
+11:02,31,Protestant,Java,Diploma,Private Employees,Upper Class,27,Ayam bakar,4,5,Mineral water,3,2,0,LINK AJA
+11:05,25,Protestant,Java,Diploma,Private Employees,Lower Class,67,Nasi goreng,2,7,Es campur,4,3,1,TUNAI
+11:07,34,Islam,Java,Bachelor degree,Private Employees,Middle Class,36,Soto,6,12,Es jeruk,2,10,0,OVO
+11:08,28,Islam,Java,Master and doctoral degree,Enterpreneur,Upper Class,42,Ayam penyet,5,10,Es teh,1,5,0,LINK AJA
+11:10,35,Islam,Java,Bachelor degree,Enterpreneur,Lower Class,73,Ayam penyet,5,9,Mineral water,3,9,0,OVO
+11:14,63,Islam,Java,Bachelor degree,Enterpreneur,Middle Class,41,Soto,6,3,Mineral water,3,3,0,GOPAY
+11:17,41,Islam,Sunda,Bachelor degree,Enterpreneur,Middle Class,33,Mie ayam bakso,3,3,Es jeruk,2,3,1,TUNAI
+11:19,30,Islam,Java,Bachelor degree,Government Employees,Upper Class,19,Bakso kuah,1,1,Mineral water,3,1,1,LINK AJA
+11:20,27,Catholic,Batak,Senior High School,Government Employees,Lower Class,69,Nasi goreng,2,3,Mineral water,3,3,0,TUNAI
+11:21,32,Catholic,Batak,Diploma,Government Employees,Upper Class,23,Ayam penyet,5,9,Es jeruk,2,9,0,LINK AJA
+11:22,29,Islam,Java,Bachelor degree,Government Employees,Upper Class,25,Ayam bakar,4,3,Es teh,1,3,0,GOPAY
+11:23,31,Islam,Java,Bachelor degree,Government Employees,Lower Class,58,Ayam bakar,4,5,Mineral water,3,5,0,TUNAI
+11:24,27,Islam,Sunda,Bachelor degree,Private Employees,Middle Class,44,Nasi goreng,2,5,Es campur,4,5,1,OVO
+11:25,37,Islam,Java,Bachelor degree,Private Employees,Middle Class,35,Mie ayam bakso,3,5,Es jeruk,2,5,0,LINK AJA
+11:26,36,Islam,Java,Senior High School,Private Employees,Lower Class,59,Ayam penyet,5,5,Es teh,1,5,0,LINK AJA
+11:27,38,Islam,Java,Diploma,Private Employees,Lower Class,65,Bakso kuah,1,1,Es campur,4,1,0,TUNAI
+11:28,63,Protestant,Bugis,Senior High School,Enterpreneur,Middle Class,41,Ayam penyet,5,3,Es jeruk,2,3,0,OVO
+11:29,40,Protestant,Other,Senior High School,Enterpreneur,Upper Class,26,Soto,6,6,Es teh,1,3,1,DANA
+11:30,30,Islam,Java,Bachelor degree,Enterpreneur,Lower Class,76,Soto,6,6,Es teh,1,3,1,OVO
+11:31,33,Islam,Java,Master and doctoral degree,Enterpreneur,Upper Class,22,Ayam bakar,4,5,Mineral water,3,2,0,OVO
+11:32,29,Islam,Java,Bachelor degree,Enterpreneur,Upper Class,18,Nasi goreng,2,7,Es campur,4,2,1,GOPAY
+11:34,27,Islam,Java,Master and doctoral degree,Enterpreneur,Lower Class,57,Mie ayam bakso,3,12,Es jeruk,2,10,0,OVO
+11:35,31,Islam,Java,Diploma,Government Employees,Middle Class,43,Ayam bakar,4,10,Es teh,1,5,0,GOPAY
+11:37,24,Islam,Sunda,Bachelor degree,Government Employees,Middle Class,38,Nasi goreng,2,9,Mineral water,3,9,0,LINK AJA
+11:38,40,Catholic,Java,Master and doctoral degree,Government Employees,Lower Class,61,Mie ayam bakso,3,11,Es jeruk,2,3,1,TUNAI
+11:40,65,Catholic,Other,Bachelor degree,Government Employees,Middle Class,58,Soto,6,8,Es teh,1,4,1,LINK AJA
+11:42,31,Protestant,Java,Bachelor degree,Government Employees,Middle Class,34,Bakso kuah,1,7,Es teh,1,7,1,LINK AJA
+11:43,25,Protestant,Other,Bachelor degree,Government Employees,Upper Class,26,Soto,6,11,Es campur,4,3,0,OVO
+11:44,41,Islam,Java,Bachelor degree,Government Employees,Lower Class,57,Ayam penyet,5,6,Es teh,1,3,1,DANA
+11:45,65,Islam,Java,Senior High School,Enterpreneur,Upper Class,24,Ayam bakar,4,5,Mineral water,3,2,0,TUNAI
+11:46,38,Islam,Java,Diploma,Enterpreneur,Upper Class,27,Nasi goreng,2,7,Es campur,4,2,1,DANA
+11:47,47,Islam,Java,Diploma,Enterpreneur,Lower Class,67,Mie ayam bakso,3,12,Es jeruk,2,10,0,OVO
+11:48,28,Islam,Java,Bachelor degree,Enterpreneur,Middle Class,36,Ayam penyet,5,10,Es teh,1,5,0,DANA
+11:49,48,Islam,Sunda,Master and doctoral degree,Enterpreneur,Middle Class,42,Ayam penyet,5,9,Mineral water,3,9,0,LINK AJA
+11:50,27,Islam,Java,Bachelor degree,Enterpreneur,Lower Class,73,Soto,6,11,Es jeruk,2,3,1,DANA
+11:51,39,Islam,Java,Bachelor degree,Independent Worker,Lower Class,41,Ayam bakar,4,8,Es teh,1,4,1,LINK AJA
+11:52,53,Islam,Bugis,Diploma,Independent Worker,Middle Class,33,Bakso kuah,1,7,Es teh,1,7,1,TUNAI
+11:53,57,Islam,Java,Diploma,Independent Worker,Upper Class,19,Nasi goreng,2,11,Es campur,4,4,0,DANA
+11:58,46,Islam,Java,Diploma,Independent Worker,Lower Class,69,Bakso kuah,1,10,Es teh,1,3,1,DANA
+11:59,53,Islam,Java,Master and doctoral degree,Independent Worker,Upper Class,23,Soto,6,9,Mineral water,3,2,1,LINK AJA
+12:04,58,Islam,Java,Senior High School,Independent Worker,Upper Class,25,Soto,6,11,Es jeruk,2,3,1,GOPAY
+12:05,23,Islam,Madura,Master and doctoral degree,Private Employees,Lower Class,57,Soto,6,8,Es teh,1,10,0,OVO
+12:06,46,Protestant,Other,Senior High School,Private Employees,Middle Class,43,Ayam penyet,5,7,Es teh,1,5,1,GOPAY
+12:07,34,Protestant,Other,Senior High School,Private Employees,Middle Class,38,Ayam penyet,5,11,Es teh,1,9,0,OVO
+12:08,30,Protestant,Sunda,Bachelor degree,Private Employees,Lower Class,61,Bakso kuah,1,2,Mineral water,3,2,0,GOPAY
+12:11,26,Islam,Java,Bachelor degree,Government Employees,Middle Class,58,Soto,6,1,Es campur,4,1,0,TUNAI
+12:12,43,Islam,Java,Bachelor degree,Government Employees,Middle Class,34,Bakso kuah,1,3,Es jeruk,2,3,0,GOPAY
+12:15,55,Protestant,Java,Bachelor degree,Enterpreneur,Upper Class,26,Bakso kuah,1,1,Es teh,1,1,1,GOPAY
+12:18,37,Islam,Madura,Master and doctoral degree,Enterpreneur,Lower Class,57,Soto,6,1,Es teh,1,1,1,OVO
+12:20,30,Islam,Java,Bachelor degree,Enterpreneur,Upper Class,24,Bakso kuah,1,1,Es teh,1,1,1,LINK AJA
+12:22,35,Catholic,Java,Master and doctoral degree,Private Employees,Upper Class,27,Soto,6,1,Es teh,1,1,1,TUNAI
+12:24,29,Islam,Java,Bachelor degree,Private Employees,Middle Class,67,Ayam bakar,4,1,Es teh,1,1,1,GOPAY
+12:30,41,Islam,Sunda,Bachelor degree,Private Employees,Middle Class,36,Ayam penyet,5,1,Mineral water,3,1,1,TUNAI
+12:34,31,Protestant,Sunda,Bachelor degree,Private Employees,Middle Class,42,Soto,6,1,Mineral water,3,1,1,TUNAI
+12:36,36,Islam,Minang,Bachelor degree,Private Employees,Lower Class,73,Soto,6,1,Mineral water,3,1,1,TUNAI
+12:38,52,Protestant,Other,Senior High School,Private Employees,Lower Class,41,Bakso kuah,1,1,Mineral water,3,1,1,DANA
+12:39,64,Protestant,Java,Primary School,Private Employees,Middle Class,33,Nasi goreng,2,3,Mineral water,3,3,0,GOPAY
+12:40,35,Islam,Java,Junior High School,Teacher?/Lecturer,Upper Class,19,Mie ayam bakso,3,3,Es jeruk,2,3,1,LINK AJA
+12:45,62,Islam,Java,Master and doctoral degree,Teacher?/Lecturer,Lower Class,69,Bakso kuah,1,1,Mineral water,3,1,1,DANA
+12:48,36,Protestant,Java,Bachelor degree,Government Employees,Lower Class,23,Ayam penyet,5,3,Mineral water,3,3,0,DANA
+12:50,52,Islam,Java,Junior High School,Government Employees,Middle Class,25,Mie ayam bakso,3,9,Es jeruk,2,9,0,OVO
+12:52,55,Islam,Sunda,Bachelor degree,Government Employees,Middle Class,58,Ayam bakar,4,3,Es teh,1,3,0,LINK AJA
+12:54,34,Islam,Java,Bachelor degree,Government Employees,Upper Class,44,Soto,6,5,Mineral water,3,5,0,DANA
+12:56,30,Islam,Java,Senior High School,Government Employees,Lower Class,35,Nasi goreng,2,5,Es campur,4,5,1,DANA
+12:58,61,Islam,Other,Primary School,Police Officer?/Army,Lower Class,59,Soto,6,5,Es jeruk,2,5,0,DANA
+13:00,23,Islam,Minang,Senior High School,Police Officer?/Army,Middle Class,65,Ayam bakar,4,5,Es teh,1,5,0,DANA
+13:01,39,Islam,Minang,Senior High School,Private Employees,Middle Class,41,Bakso kuah,1,1,Es campur,4,1,0,LINK AJA
+13:03,31,Islam,Sunda,Diploma,Private Employees,Upper Class,26,Ayam penyet,5,3,Es jeruk,2,3,0,OVO
+13:05,28,Islam,Sunda,Diploma,Government Employees,Upper Class,76,Soto,6,6,Es teh,1,3,1,LINK AJA
+13:07,45,Catholic,Other,Bachelor degree,Police Officer?/Army,Upper Class,22,Ayam bakar,4,5,Mineral water,3,2,0,GOPAY
+13:10,64,Islam,Other,Master and doctoral degree,Private Employees,Middle Class,18,Nasi goreng,2,7,Es campur,4,3,1,LINK AJA
+13:12,31,Islam,Java,Bachelor degree,Private Employees,Lower Class,57,Mie ayam bakso,3,12,Es jeruk,2,10,0,GOPAY
+13:14,29,Islam,Java,Bachelor degree,Private Employees,Middle Class,43,Soto,6,10,Es teh,1,5,0,OVO
+13:16,46,Islam,Java,Master and doctoral degree,Enterpreneur,Middle Class,38,Ayam penyet,5,9,Mineral water,3,9,0,GOPAY
+13:20,64,Islam,Other,Bachelor degree,Enterpreneur,Lower Class,61,Mie ayam bakso,3,11,Es jeruk,2,3,1,DANA
+13:22,54,Protestant,Java,Bachelor degree,Enterpreneur,Lower Class,58,Ayam bakar,4,8,Es teh,1,4,1,GOPAY
+13:24,47,Islam,Minang,Bachelor degree,Enterpreneur,Middle Class,34,Bakso kuah,1,7,Es teh,1,7,1,GOPAY
+13:28,28,Islam,Java,Bachelor degree,Government Employees,Upper Class,26,Nasi goreng,2,11,Es campur,4,3,0,DANA
+13:30,48,Islam,Java,Senior High School,Government Employees,Lower Class,57,Bakso kuah,1,6,Es teh,1,3,1,GOPAY
+13:33,25,Islam,Java,Diploma,Government Employees,Upper Class,24,Ayam bakar,4,5,Mineral water,3,2,0,TUNAI
+13:35,39,Catholic,Batak,Diploma,Government Employees,Upper Class,27,Nasi goreng,2,7,Es campur,4,2,1,GOPAY
+13:38,53,Protestant,Java,Diploma,Government Employees,Lower Class,67,Soto,6,12,Es jeruk,2,10,0,DANA
+13:41,57,Protestant,Java,Diploma,Private Employees,Middle Class,36,Bakso kuah,1,6,Es teh,1,3,1,LINK AJA
+13:45,46,Islam,Java,Diploma,Private Employees,Middle Class,42,Ayam bakar,4,5,Mineral water,3,2,0,TUNAI
+13:48,53,Islam,Java,Bachelor degree,Private Employees,Lower Class,73,Nasi goreng,2,7,Es campur,4,4,1,OVO
+13:49,58,Islam,Java,Diploma,Private Employees,Middle Class,41,Soto,6,12,Es jeruk,2,10,0,TUNAI
+13:52,62,Islam,Java,Master and doctoral degree,Enterpreneur,Middle Class,33,Ayam bakar,4,10,Es teh,1,5,0,OVO
+13:55,33,Protestant,Java,Bachelor degree,Enterpreneur,Upper Class,19,Nasi goreng,2,9,Mineral water,3,9,0,LINK AJA
+13:57,37,Protestant,Java,Diploma,Enterpreneur,Lower Class,69,Mie ayam bakso,3,11,Es jeruk,2,3,1,LINK AJA
+14:01,32,Protestant,Java,Diploma,Enterpreneur,Upper Class,23,Soto,6,8,Es teh,1,4,1,DANA
+14:04,35,Protestant,Java,Senior High School,Enterpreneur,Upper Class,25,Soto,6,7,Es teh,1,7,1,OVO
+14:07,31,Catholic,Other,Diploma,Enterpreneur,Lower Class,57,Nasi goreng,2,11,Es campur,4,4,0,LINK AJA
+14:10,27,Islam,Minang,Senior High School,Government Employees,Middle Class,43,Bakso kuah,1,6,Es teh,1,3,1,LINK AJA
+14:13,49,Islam,Minang,Senior High School,Government Employees,Middle Class,38,Ayam bakar,4,5,Mineral water,3,2,0,TUNAI
+14:16,55,Islam,Sunda,Diploma,Government Employees,Lower Class,61,Ayam penyet,5,7,Es campur,4,3,1,OVO
+14:18,54,Islam,Java,Diploma,Government Employees,Lower Class,58,Mie ayam bakso,3,12,Es jeruk,2,10,0,GOPAY
+14:21,47,Islam,Java,Bachelor degree,Government Employees,Middle Class,34,Ayam bakar,4,10,Es teh,1,5,0,TUNAI
+14:23,28,Islam,Java,Diploma,Government Employees,Upper Class,26,Nasi goreng,2,9,Mineral water,3,9,0,OVO
+14:25,48,Catholic,Madura,Diploma,Government Employees,Lower Class,57,Soto,6,11,Es jeruk,2,3,1,OVO
+14:29,26,Catholic,Java,Bachelor degree,Enterpreneur,Upper Class,24,Ayam bakar,4,8,Es teh,1,4,1,GOPAY
+14:32,39,Protestant,Java,Master and doctoral degree,Enterpreneur,Upper Class,27,Soto,6,7,Es teh,1,7,1,LINK AJA
+14:35,53,Islam,Java,Bachelor degree,Enterpreneur,Lower Class,67,Nasi goreng,2,11,Es campur,4,4,0,TUNAI
+14:37,57,Islam,Sunda,Bachelor degree,Enterpreneur,Middle Class,36,Bakso kuah,1,10,Es teh,1,3,1,GOPAY
+14:40,46,Islam,Sunda,Bachelor degree,Enterpreneur,Middle Class,42,Bakso kuah,1,9,Mineral water,3,2,1,DANA
+14:43,53,Islam,Minang,Bachelor degree,Enterpreneur,Lower Class,73,Soto,6,11,Es jeruk,2,4,1,TUNAI
+14:46,58,Islam,Minang,Senior High School,Independent Worker,Middle Class,41,Soto,6,8,Es teh,1,10,0,DANA
+14:48,62,Islam,Java,Diploma,Independent Worker,Middle Class,33,Bakso kuah,1,7,Es teh,1,5,1,LINK AJA
+14:50,49,Protestant,Java,Master and doctoral degree,Independent Worker,Upper Class,19,Ayam penyet,5,11,Es teh,1,9,0,OVO
+14:52,38,Protestant,Java,Bachelor degree,Independent Worker,Lower Class,69,Soto,6,2,Mineral water,3,2,0,DANA
+14:54,25,Protestant,Java,Bachelor degree,Independent Worker,Upper Class,23,Ayam penyet,5,1,Es campur,4,1,0,LINK AJA
+14:56,33,Islam,Java,Master and doctoral degree,Independent Worker,Upper Class,25,Soto,6,3,Es jeruk,2,3,0,OVO
+14:58,62,Islam,Sunda,Bachelor degree,Private Employees,Lower Class,58,Bakso kuah,1,2,Es teh,1,2,1,LINK AJA
+15:00,25,Islam,Java,Master and doctoral degree,Private Employees,Middle Class,44,Ayam penyet,5,2,Es teh,1,2,1,DANA
+15:04,61,Islam,Java,Master and doctoral degree,Private Employees,Middle Class,35,Bakso kuah,1,2,Es teh,1,2,1,OVO
+15:07,32,Islam,Minang,Bachelor degree,Private Employees,Lower Class,59,Soto,6,2,Es teh,1,2,1,OVO
+15:09,42,Islam,Minang,Bachelor degree,Government Employees,Lower Class,65,Soto,6,1,Es teh,1,2,1,LINK AJA
+15:11,25,Protestant,Other,Senior High School,Government Employees,Middle Class,41,Bakso kuah,1,1,Mineral water,3,1,1,TUNAI
+15:13,36,Islam,Java,Diploma,Enterpreneur,Upper Class,26,Ayam penyet,5,1,Mineral water,3,1,1,TUNAI
+15:15,50,Islam,Sunda,Senior High School,Enterpreneur,Lower Class,76,Bakso kuah,1,1,Mineral water,3,1,1,GOPAY
+15:18,55,Islam,Other,Senior High School,Enterpreneur,Upper Class,22,Soto,6,1,Mineral water,3,1,1,LINK AJA
+15:20,54,Hindu,Other,Diploma,Private Employees,Upper Class,18,Nasi goreng,2,3,Mineral water,3,3,0,DANA
+15:22,62,Protestant,Java,Diploma,Private Employees,Lower Class,57,Mie ayam bakso,3,3,Es jeruk,2,3,1,DANA
+15:25,26,Protestant,Java,Bachelor degree,Private Employees,Middle Class,43,Bakso kuah,1,1,Mineral water,3,1,1,DANA
+15:28,40,Protestant,Java,Diploma,Private Employees,Middle Class,38,Ayam penyet,5,3,Mineral water,3,3,0,LINK AJA
+15:31,33,Islam,Minang,Diploma,Private Employees,Lower Class,61,Mie ayam bakso,3,9,Es jeruk,2,9,0,OVO
+15:35,33,Islam,Java,Bachelor degree,Private Employees,Middle Class,58,Ayam bakar,4,3,Es teh,1,3,0,LINK AJA
+15:37,51,Islam,Minang,Master and doctoral degree,Private Employees,Middle Class,34,Ayam bakar,4,5,Mineral water,3,5,0,LINK AJA
+15:39,40,Islam,Java,Bachelor degree,Teacher?/Lecturer,Upper Class,26,Nasi goreng,2,5,Es campur,4,5,1,GOPAY
+15:41,61,Islam,Java,Bachelor degree,Teacher?/Lecturer,Lower Class,57,Mie ayam bakso,3,5,Es jeruk,2,5,0,OVO
+15:49,27,Protestant,Java,Bachelor degree,Government Employees,Upper Class,24,Ayam bakar,4,5,Es teh,1,5,0,TUNAI
+15:54,29,Protestant,Batak,Bachelor degree,Government Employees,Upper Class,27,Bakso kuah,1,1,Es campur,4,1,0,TUNAI
+15:56,27,Islam,Java,Senior High School,Government Employees,Lower Class,67,Bakso kuah,1,3,Es jeruk,2,3,0,LINK AJA
+15:58,55,Protestant,Java,Diploma,Government Employees,Middle Class,36,Bakso kuah,1,6,Es teh,1,3,1,GOPAY
+16:04,60,Islam,Java,Bachelor degree,Government Employees,Middle Class,42,Ayam bakar,4,5,Mineral water,3,2,0,DANA
+16:07,26,Islam,Java,Master and doctoral degree,Police Officer?/Army,Lower Class,73,Nasi goreng,2,7,Es campur,4,3,1,GOPAY
+16:09,30,Islam,Java,Bachelor degree,Police Officer?/Army,Lower Class,41,Mie ayam bakso,3,12,Es jeruk,2,10,0,DANA
+16:11,41,Islam,Java,Master and doctoral degree,Private Employees,Middle Class,33,Ayam bakar,4,10,Es teh,1,5,0,TUNAI
+16:16,36,Islam,Java,Bachelor degree,Private Employees,Upper Class,19,Soto,6,9,Mineral water,3,9,0,GOPAY
+16:19,52,Islam,Java,Diploma,Government Employees,Lower Class,69,Mie ayam bakso,3,11,Es jeruk,2,3,1,DANA
+16:21,63,Islam,Java,Senior High School,Police Officer?/Army,Upper Class,23,Ayam bakar,4,8,Es teh,1,4,1,DANA
+16:26,28,Islam,Java,Diploma,Private Employees,Upper Class,25,Soto,6,7,Es teh,1,7,1,LINK AJA
+16:28,30,Islam,Java,Senior High School,Private Employees,Lower Class,57,Nasi goreng,2,11,Es campur,4,3,0,LINK AJA
+16:30,61,Islam,Minang,Senior High School,Private Employees,Middle Class,43,Bakso kuah,1,6,Es teh,1,3,1,GOPAY
+16:34,26,Catholic,Batak,Master and doctoral degree,Enterpreneur,Middle Class,38,Ayam bakar,4,5,Mineral water,3,2,0,TUNAI
+16:38,27,Catholic,Batak,Master and doctoral degree,Enterpreneur,Lower Class,61,Nasi goreng,2,7,Es campur,4,3,1,GOPAY
+16:41,31,Protestant,Java,Bachelor degree,Enterpreneur,Middle Class,58,Mie ayam bakso,3,12,Es jeruk,2,10,0,LINK AJA
+16:43,36,Islam,Minang,Diploma,Enterpreneur,Middle Class,34,Ayam bakar,4,10,Es teh,1,5,0,OVO
+16:45,56,Islam,Sunda,Master and doctoral degree,Government Employees,Upper Class,26,Soto,6,9,Mineral water,3,9,0,TUNAI
+16:49,63,Islam,Sunda,Bachelor degree,Government Employees,Lower Class,57,Soto,6,3,Mineral water,3,3,0,DANA
+16:52,54,Islam,Sunda,Master and doctoral degree,Government Employees,Upper Class,24,Mie ayam bakso,3,3,Es jeruk,2,3,1,OVO
+16:55,36,Islam,Sunda,Bachelor degree,Government Employees,Upper Class,27,Bakso kuah,1,1,Mineral water,3,1,1,TUNAI
+16:58,52,Islam,Sunda,Bachelor degree,Government Employees,Middle Class,67,Nasi goreng,2,3,Mineral water,3,3,0,TUNAI
+17:00,63,Catholic,Java,Bachelor degree,Private Employees,Middle Class,36,Mie ayam bakso,3,9,Es jeruk,2,9,0,OVO
+17:04,54,Catholic,Sunda,Bachelor degree,Private Employees,Middle Class,42,Ayam bakar,4,3,Es teh,1,3,0,OVO
+17:08,30,Catholic,Batak,Senior High School,Private Employees,Lower Class,73,Ayam bakar,4,5,Mineral water,3,5,0,TUNAI
+17:10,43,Islam,Sunda,Primary School,Private Employees,Lower Class,41,Nasi goreng,2,5,Es campur,4,5,1,GOPAY
+17:12,29,Islam,Sunda,Diploma,Enterpreneur,Middle Class,33,Mie ayam bakso,3,5,Es jeruk,2,5,0,GOPAY
+17:14,36,Islam,Java,Bachelor degree,Enterpreneur,Upper Class,19,Ayam bakar,4,5,Es teh,1,5,0,LINK AJA
+17:18,33,Islam,Minang,Junior High School,Enterpreneur,Lower Class,69,Bakso kuah,1,1,Es campur,4,1,0,TUNAI
+17:21,60,Islam,Bugis,Primary School,Enterpreneur,Lower Class,23,Ayam penyet,5,3,Es jeruk,2,3,0,OVO
+17:23,54,Islam,Java,Bachelor degree,Enterpreneur,Middle Class,25,Bakso kuah,1,6,Es teh,1,3,1,TUNAI
+17:25,30,Protestant,Batak,Bachelor degree,Enterpreneur,Middle Class,58,Bakso kuah,1,6,Es teh,1,3,1,GOPAY
+17:28,45,Catholic,Batak,Senior High School,Government Employees,Upper Class,44,Ayam bakar,4,5,Mineral water,3,2,0,DANA
+17:30,32,Catholic,Other,Diploma,Government Employees,Lower Class,35,Nasi goreng,2,7,Es campur,4,3,1,LINK AJA
+17:32,25,Islam,Sunda,Senior High School,Government Employees,Lower Class,59,Mie ayam bakso,3,12,Es jeruk,2,10,0,OVO
+17:34,31,Islam,Sunda,Bachelor degree,Government Employees,Middle Class,65,Ayam bakar,4,10,Es teh,1,5,0,DANA
+17:38,27,Islam,Java,Master and doctoral degree,Government Employees,Middle Class,41,Nasi goreng,2,9,Mineral water,3,9,0,LINK AJA
+17:40,52,Islam,Java,Primary School,Government Employees,Upper Class,26,Mie ayam bakso,3,11,Es jeruk,2,3,1,TUNAI
+17:43,60,Islam,Sunda,Bachelor degree,Government Employees,Upper Class,76,Ayam bakar,4,8,Es teh,1,4,1,LINK AJA
+17:45,25,Islam,Sunda,Junior High School,Enterpreneur,Upper Class,22,Ayam penyet,5,7,Es teh,1,7,1,TUNAI
+17:47,31,Catholic,Java,Diploma,Enterpreneur,Middle Class,18,Nasi goreng,2,11,Es campur,4,3,0,DANA
+17:51,36,Islam,Java,Bachelor degree,Enterpreneur,Lower Class,57,Bakso kuah,1,6,Es teh,1,3,1,OVO
+17:53,34,Islam,Java,Master and doctoral degree,Enterpreneur,Middle Class,43,Ayam bakar,4,5,Mineral water,3,2,0,DANA
+17:54,64,Islam,Sunda,Bachelor degree,Enterpreneur,Middle Class,38,Nasi goreng,2,7,Es campur,4,2,1,LINK AJA
+17:55,24,Hindu,Other,Bachelor degree,Enterpreneur,Lower Class,61,Mie ayam bakso,3,12,Es jeruk,2,10,0,LINK AJA
+17:57,47,Protestant,Other,Bachelor degree,Independent Worker,Lower Class,58,Ayam bakar,4,10,Es teh,1,5,0,GOPAY
+17:58,28,Catholic,Sunda,Bachelor degree,Independent Worker,Middle Class,34,Nasi goreng,2,9,Mineral water,3,9,0,GOPAY
+18:00,48,Catholic,Sunda,Senior High School,Independent Worker,Upper Class,26,Mie ayam bakso,3,11,Es jeruk,2,3,1,DANA
+18:02,26,Islam,Sunda,Diploma,Independent Worker,Lower Class,57,Ayam bakar,4,8,Es teh,1,4,1,GOPAY
+18:04,39,Islam,Minang,Master and doctoral degree,Independent Worker,Upper Class,24,Bakso kuah,1,7,Es teh,1,7,1,GOPAY
+18:05,53,Islam,Sunda,Bachelor degree,Independent Worker,Upper Class,27,Nasi goreng,2,11,Es campur,4,3,0,TUNAI
+18:07,57,Islam,Sunda,Bachelor degree,Private Employees,Lower Class,67,Bakso kuah,1,10,Es teh,1,3,1,OVO
+18:09,46,Islam,Java,Senior High School,Private Employees,Middle Class,36,Bakso kuah,1,9,Mineral water,3,2,1,OVO
+18:12,53,Protestant,Sunda,Master and doctoral degree,Private Employees,Middle Class,42,Bakso kuah,1,11,Es jeruk,2,5,1,LINK AJA
+18:13,58,Protestant,Java,Senior High School,Private Employees,Lower Class,73,Nasi goreng,2,3,Mineral water,3,3,0,LINK AJA
+18:15,50,Catholic,Sunda,Senior High School,Government Employees,Middle Class,41,Mie ayam bakso,3,3,Es jeruk,2,3,1,OVO
+18:18,54,Catholic,Batak,Diploma,Government Employees,Middle Class,33,Nasi goreng,2,3,Mineral water,3,3,0,GOPAY
+18:20,49,Islam,Sunda,Diploma,Enterpreneur,Upper Class,19,Mie ayam bakso,3,3,Es jeruk,2,3,1,TUNAI
+18:21,23,Islam,Sunda,Bachelor degree,Enterpreneur,Lower Class,69,Nasi goreng,2,3,Mineral water,3,3,0,OVO
+18:23,41,Islam,Other,Diploma,Enterpreneur,Upper Class,23,Mie ayam bakso,3,3,Es jeruk,2,3,1,GOPAY
+18:25,62,Islam,Java,Primary School,Private Employees,Upper Class,25,Nasi goreng,2,3,Mineral water,3,3,0,TUNAI
+18:27,54,Islam,Java,Bachelor degree,Private Employees,Lower Class,57,Mie ayam bakso,3,3,Es jeruk,2,3,1,DANA
+18:29,50,Islam,Sunda,Master and doctoral degree,Private Employees,Middle Class,43,Bakso kuah,1,2,Es teh,1,2,0,GOPAY
+18:31,34,Islam,Sunda,Bachelor degree,Private Employees,Middle Class,38,Bakso kuah,1,1,Es teh,1,1,0,LINK AJA
+18:33,39,Islam,Sunda,Bachelor degree,Private Employees,Lower Class,61,Bakso kuah,1,1,Es teh,1,1,0,TUNAI
+18:35,31,Catholic,Sunda,Bachelor degree,Private Employees,Lower Class,58,Bakso kuah,1,1,Mineral water,3,1,0,GOPAY
+18:37,27,Islam,Other,Bachelor degree,Private Employees,Middle Class,34,Bakso kuah,1,1,Mineral water,3,1,1,LINK AJA
+18:39,37,Islam,Java,Senior High School,Teacher?/Lecturer,Upper Class,26,Bakso kuah,1,1,Mineral water,3,1,1,DANA
+18:40,56,Islam,Minang,Bachelor degree,Teacher?/Lecturer,Lower Class,57,Bakso kuah,1,1,Mineral water,3,1,1,TUNAI
+18:43,54,Islam,Minang,Bachelor degree,Government Employees,Upper Class,24,Nasi goreng,2,3,Mineral water,3,3,0,DANA
+18:44,62,Islam,Minang,Junior High School,Government Employees,Upper Class,27,Mie ayam bakso,3,3,Es jeruk,2,3,1,GOPAY
+18:46,56,Islam,Sunda,Master and doctoral degree,Government Employees,Lower Class,67,Bakso kuah,1,1,Mineral water,3,1,1,DANA
+18:47,51,Catholic,Sunda,Senior High School,Government Employees,Middle Class,36,Nasi goreng,2,3,Mineral water,3,3,0,DANA
+18:50,37,Catholic,Batak,Diploma,Government Employees,Middle Class,42,Mie ayam bakso,3,9,Es jeruk,2,9,0,DANA
+18:52,42,Catholic,Other,Senior High School,Police Officer?/Army,Lower Class,73,Ayam bakar,4,3,Es teh,1,3,0,OVO
+18:53,49,Islam,Sunda,Senior High School,Police Officer?/Army,Middle Class,41,Ayam bakar,4,5,Mineral water,3,5,0,LINK AJA
+18:55,54,Islam,Sunda,Diploma,Private Employees,Middle Class,33,Nasi goreng,2,5,Es campur,4,5,1,TUNAI
+18:57,33,Islam,Other,Diploma,Private Employees,Upper Class,19,Mie ayam bakso,3,5,Es jeruk,2,5,0,GOPAY
+18:58,27,Islam,Sunda,Bachelor degree,Government Employees,Lower Class,69,Ayam bakar,4,5,Es teh,1,5,0,LINK AJA
+19:00,35,Islam,Sunda,Master and doctoral degree,Police Officer?/Army,Upper Class,23,Bakso kuah,1,1,Es campur,4,1,0,OVO
+19:02,36,Islam,Sunda,Bachelor degree,Private Employees,Upper Class,25,Bakso kuah,1,3,Es jeruk,2,3,0,TUNAI
+19:03,26,Protestant,Java,Bachelor degree,Private Employees,Lower Class,58,Bakso kuah,1,6,Es teh,1,3,1,DANA
+19:07,63,Protestant,Java,Master and doctoral degree,Private Employees,Middle Class,44,Ayam bakar,4,5,Mineral water,3,2,0,LINK AJA
+19:12,26,Protestant,Java,Bachelor degree,Enterpreneur,Middle Class,35,Nasi goreng,2,7,Es campur,4,4,1,TUNAI
+19:14,30,Islam,Sunda,Bachelor degree,Enterpreneur,Lower Class,59,Mie ayam bakso,3,12,Es jeruk,2,10,0,DANA
+19:16,34,Islam,Sunda,Bachelor degree,Enterpreneur,Lower Class,65,Ayam bakar,4,10,Es teh,1,5,0,DANA
+19:18,32,Islam,Other,Bachelor degree,Enterpreneur,Middle Class,41,Nasi goreng,2,9,Mineral water,3,9,0,TUNAI
+19:19,33,Islam,Other,Senior High School,Government Employees,Upper Class,26,Mie ayam bakso,3,11,Es jeruk,2,3,1,DANA
+19:21,31,Islam,Other,Diploma,Government Employees,Lower Class,76,Ayam bakar,4,8,Es teh,1,4,1,OVO
+19:23,32,Islam,Other,Bachelor degree,Government Employees,Upper Class,22,Bakso kuah,1,7,Es teh,1,7,1,GOPAY
+19:26,31,Budha,Other,Bachelor degree,Government Employees,Upper Class,18,Nasi goreng,2,11,Es campur,4,3,0,TUNAI
+19:28,27,Islam,Sunda,Master and doctoral degree,Government Employees,Lower Class,57,Bakso kuah,1,6,Es teh,1,3,1,GOPAY
+19:30,28,Islam,Sunda,Senior High School,Private Employees,Middle Class,43,Ayam bakar,4,5,Mineral water,3,2,0,LINK AJA
+19:32,56,Islam,Sunda,Master and doctoral degree,Private Employees,Middle Class,38,Nasi goreng,2,7,Es campur,4,4,1,DANA
+19:35,55,Hindu,Bali,Senior High School,Private Employees,Lower Class,61,Mie ayam bakso,3,12,Es jeruk,2,10,0,LINK AJA
+19:36,47,Protestant,Java,Senior High School,Private Employees,Middle Class,58,Ayam bakar,4,10,Es teh,1,5,0,GOPAY
+19:38,28,Catholic,Sunda,Diploma,Enterpreneur,Middle Class,34,Nasi goreng,2,9,Mineral water,3,9,0,LINK AJA
+19:39,48,Catholic,Other,Diploma,Enterpreneur,Upper Class,26,Nasi goreng,2,3,Mineral water,3,3,0,DANA
+19:42,29,Islam,Minang,Bachelor degree,Enterpreneur,Lower Class,57,Mie ayam bakso,3,3,Es jeruk,2,3,1,LINK AJA
+19:43,39,Islam,Sunda,Diploma,Enterpreneur,Upper Class,24,Bakso kuah,1,1,Mineral water,3,1,1,TUNAI
+19:45,53,Islam,Sunda,Diploma,Enterpreneur,Upper Class,27,Nasi goreng,2,3,Mineral water,3,3,0,GOPAY
+19:47,57,Islam,Minang,Bachelor degree,Enterpreneur,Lower Class,67,Mie ayam bakso,3,9,Es jeruk,2,9,0,OVO
+19:48,46,Islam,Minang,Master and doctoral degree,Government Employees,Middle Class,36,Ayam bakar,4,3,Es teh,1,3,0,GOPAY
+19:50,53,Protestant,Batak,Bachelor degree,Government Employees,Middle Class,42,Ayam bakar,4,5,Mineral water,3,5,0,GOPAY
+19:52,58,Protestant,Batak,Bachelor degree,Government Employees,Lower Class,73,Nasi goreng,2,5,Es campur,4,5,1,TUNAI
+19:55,45,Catholic,Bugis,Bachelor degree,Government Employees,Lower Class,41,Mie ayam bakso,3,5,Es jeruk,2,5,0,GOPAY
+19:57,54,Catholic,Other,Bachelor degree,Government Employees,Middle Class,33,Ayam bakar,4,5,Es teh,1,5,0,TUNAI
+19:59,35,Islam,Sunda,Senior High School,Government Employees,Upper Class,19,Bakso kuah,1,1,Es campur,4,1,0,LINK AJA
+20:01,29,Islam,Sunda,Diploma,Government Employees,Lower Class,69,Bakso kuah,1,3,Es jeruk,2,3,0,LINK AJA
+20:04,29,Islam,Java,Diploma,Enterpreneur,Upper Class,23,Bakso kuah,1,6,Es teh,1,3,1,TUNAI
+20:08,62,Islam,Sunda,Master and doctoral degree,Enterpreneur,Upper Class,25,Ayam bakar,4,10,Es teh,1,5,0,GOPAY
+20:11,54,Islam,Sunda,Master and doctoral degree,Enterpreneur,Lower Class,57,Nasi goreng,2,9,Mineral water,3,9,0,OVO
+20:13,37,Islam,Sunda,Senior High School,Enterpreneur,Middle Class,43,Nasi goreng,2,3,Mineral water,3,3,0,TUNAI
+20:17,39,Islam,Minang,Bachelor degree,Enterpreneur,Middle Class,38,Mie ayam bakso,3,3,Es jeruk,2,3,1,GOPAY
+20:19,28,Islam,Other,Senior High School,Enterpreneur,Lower Class,61,Bakso kuah,1,1,Mineral water,3,1,1,TUNAI
+20:22,31,Protestant,Other,Senior High School,Independent Worker,Middle Class,58,Nasi goreng,2,3,Mineral water,3,3,0,DANA
+20:27,28,Islam,Sunda,Bachelor degree,Independent Worker,Middle Class,34,Mie ayam bakso,3,9,Es jeruk,2,9,0,LINK AJA
+20:30,33,Islam,Minang,Master and doctoral degree,Independent Worker,Upper Class,26,Ayam bakar,4,3,Es teh,1,3,0,GOPAY
+20:32,64,Islam,Sunda,Bachelor degree,Independent Worker,Lower Class,57,Ayam bakar,4,5,Mineral water,3,5,0,OVO
+20:34,54,Islam,Minang,Diploma,Independent Worker,Upper Class,24,Nasi goreng,2,5,Es campur,4,5,1,GOPAY
+20:36,62,Islam,Sunda,Diploma,Independent Worker,Upper Class,27,Mie ayam bakso,3,5,Es jeruk,2,5,0,TUNAI
+20:38,50,Islam,Sunda,Bachelor degree,Private Employees,Middle Class,67,Ayam bakar,4,5,Es teh,1,5,0,DANA
+20:41,38,Catholic,Minang,Master and doctoral degree,Private Employees,Middle Class,36,Ayam penyet,5,1,Es campur,4,1,0,LINK AJA
+20:44,33,Catholic,Java,Bachelor degree,Private Employees,Middle Class,42,Ayam penyet,5,3,Es jeruk,2,3,0,LINK AJA
+20:46,27,Catholic,Java,Bachelor degree,Private Employees,Lower Class,73,Ayam penyet,5,6,Es teh,1,3,1,LINK AJA
+20:49,43,Islam,Sunda,Bachelor degree,Government Employees,Lower Class,41,Bakso kuah,1,6,Es teh,1,3,1,TUNAI
+20:51,49,Islam,Sunda,Bachelor degree,Government Employees,Middle Class,33,Ayam bakar,4,5,Mineral water,3,2,0,OVO
+20:55,40,Islam,Sunda,Senior High School,Enterpreneur,Upper Class,19,Nasi goreng,2,7,Es campur,4,3,1,GOPAY
+20:58,35,Islam,Minang,Diploma,Enterpreneur,Lower Class,69,Mie ayam bakso,3,12,Es jeruk,2,10,0,LINK AJA
+21:00,29,Islam,Minang,Diploma,Enterpreneur,Lower Class,23,Ayam bakar,4,10,Es teh,1,5,0,GOPAY
+21:02,57,Islam,Minang,Bachelor degree,Private Employees,Middle Class,25,Nasi goreng,2,9,Mineral water,3,9,0,TUNAI
+21:05,34,Protestant,Batak,Bachelor degree,Private Employees,Middle Class,58,Mie ayam bakso,3,11,Es jeruk,2,3,1,OVO
+21:07,28,Protestant,Other,Master and doctoral degree,Private Employees,Upper Class,44,Ayam bakar,4,8,Es teh,1,4,1,GOPAY
+21:09,34,Catholic,Sunda,Bachelor degree,Private Employees,Lower Class,35,Bakso kuah,1,7,Es teh,1,7,1,DANA
+21:12,55,Islam,Other,Diploma,Private Employees,Lower Class,59,Nasi goreng,2,11,Es campur,4,3,0,DANA
+21:15,46,Islam,Java,Diploma,Private Employees,Middle Class,65,Bakso kuah,1,6,Es teh,1,3,1,GOPAY
+21:18,30,Islam,Madura,Master and doctoral degree,Private Employees,Middle Class,41,Ayam bakar,4,5,Mineral water,3,2,0,LINK AJA
+21:20,41,Islam,Java,Bachelor degree,Teacher?/Lecturer,Upper Class,26,Nasi goreng,2,7,Es campur,4,4,1,LINK AJA
+21:22,26,Islam,Minang,Bachelor degree,Teacher?/Lecturer,Upper Class,76,Mie ayam bakso,3,12,Es jeruk,2,10,0,TUNAI
+21:26,29,Islam,Minang,Senior High School,Government Employees,Upper Class,22,Ayam bakar,4,10,Es teh,1,5,0,GOPAY
+21:28,31,Catholic,Other,Bachelor degree,Government Employees,Middle Class,18,Nasi goreng,2,9,Mineral water,3,9,0,GOPAY
+21:30,36,Islam,Minang,Senior High School,Government Employees,Lower Class,57,Mie ayam bakso,3,11,Es jeruk,2,3,1,DANA
+21:32,52,Islam,Minang,Senior High School,Government Employees,Middle Class,43,Ayam bakar,4,8,Es teh,1,4,1,OVO
+21:34,60,Islam,Sunda,Diploma,Government Employees,Middle Class,38,Bakso kuah,1,7,Es teh,1,7,1,DANA
+21:37,54,Hindu,Bali,Diploma,Police Officer?/Army,Lower Class,61,Nasi goreng,2,11,Es campur,4,3,0,GOPAY
+21:39,41,Protestant,Bugis,Bachelor degree,Police Officer?/Army,Lower Class,58,Ayam penyet,5,10,Es teh,1,3,1,OVO
+21:41,60,Protestant,Batak,Senior High School,Private Employees,Middle Class,34,Ayam penyet,5,9,Mineral water,3,2,1,TUNAI
+21:44,27,Catholic,Batak,Diploma,Private Employees,Upper Class,26,Soto,6,11,Es jeruk,2,4,1,TUNAI
+21:47,52,Islam,Sunda,Diploma,Government Employees,Lower Class,57,Bakso kuah,1,8,Es teh,1,10,0,TUNAI
+21:50,56,Islam,Minang,Diploma,Police Officer?/Army,Upper Class,24,Bakso kuah,1,7,Es teh,1,5,1,TUNAI
+21:53,45,Islam,Madura,Master and doctoral degree,Private Employees,Upper Class,27,Bakso kuah,1,11,Es teh,1,9,0,DANA
+21:55,30,Islam,Sunda,Bachelor degree,Private Employees,Lower Class,67,Ayam penyet,5,2,Mineral water,3,2,0,DANA
+21:57,61,Islam,Sunda,Bachelor degree,Private Employees,Middle Class,36,Bakso kuah,1,1,Es campur,4,1,0,TUNAI
+10:00,25,Catholic,Sunda,Diploma,Enterpreneur,Middle Class,42,Nasi goreng,2,3,Mineral water,3,4,1,OVO
+10:01,25,Catholic,Sunda,Diploma,Enterpreneur,Lower Class,73,Bakso kuah,1,7,Es campur,4,2,0,LINK AJA
+10:04,26,Catholic,Java,Diploma,Enterpreneur,Middle Class,41,Ayam penyet,5,5,Mineral water,3,7,0,GOPAY
+10:06,36,Islam,Sunda,Diploma,Enterpreneur,Middle Class,33,Ayam penyet,5,7,Es teh,1,4,1,DANA
+10:09,52,Islam,Minang,Diploma,Government Employees,Upper Class,19,Nasi goreng,2,9,Es jeruk,2,2,1,OVO
+10:11,64,Islam,Sunda,Senior High School,Government Employees,Lower Class,69,Ayam bakar,4,1,Mineral water,3,4,0,TUNAI
+10:14,54,Islam,Sunda,Diploma,Government Employees,Upper Class,23,Nasi goreng,2,2,Es campur,4,3,1,TUNAI
+10:16,40,Islam,Minang,Senior High School,Government Employees,Upper Class,25,Soto,6,10,Es jeruk,2,3,1,TUNAI
+10:18,60,Islam,Minang,Senior High School,Government Employees,Lower Class,57,Bakso kuah,1,1,Es teh,1,2,0,GOPAY
+10:20,35,Catholic,Batak,Master and doctoral degree,Private Employees,Middle Class,43,Mie ayam bakso,3,6,Es jeruk,2,5,1,TUNAI
+10:22,56,Catholic,Sunda,Bachelor degree,Private Employees,Middle Class,38,Nasi goreng,2,5,Es jeruk,2,6,0,DANA
+10:25,49,Catholic,Sunda,Bachelor degree,Private Employees,Lower Class,61,Nasi goreng,2,5,Es jeruk,2,9,1,LINK AJA
+10:27,38,Islam,Java,Senior High School,Private Employees,Lower Class,58,Mie ayam bakso,3,9,Es campur,4,2,0,OVO
+10:29,31,Islam,Madura,Diploma,Enterpreneur,Middle Class,34,Nasi goreng,2,5,Es teh,1,2,1,GOPAY
+10:31,36,Islam,Java,Diploma,Enterpreneur,Upper Class,26,Ayam penyet,5,4,Es teh,1,7,0,TUNAI
+10:33,52,Catholic,Sunda,Bachelor degree,Enterpreneur,Lower Class,57,Ayam penyet,5,7,Es campur,4,4,1,TUNAI
+10:36,59,Protestant,Madura,Bachelor degree,Enterpreneur,Upper Class,24,Ayam bakar,4,5,Es campur,4,1,1,OVO
+10:38,43,Catholic,Sunda,Master and doctoral degree,Enterpreneur,Upper Class,27,Ayam bakar,4,8,Mineral water,3,8,0,TUNAI
+10:41,47,Catholic,Other,Bachelor degree,Enterpreneur,Lower Class,67,Nasi goreng,2,6,Es campur,4,2,1,DANA
+10:44,28,Islam,Madura,Bachelor degree,Government Employees,Middle Class,36,Ayam bakar,4,7,Es teh,1,9,1,LINK AJA
+10:46,48,Islam,Madura,Master and doctoral degree,Government Employees,Middle Class,42,Nasi goreng,2,4,Mineral water,3,1,1,GOPAY
+10:49,36,Islam,Madura,Bachelor degree,Government Employees,Lower Class,73,Nasi goreng,2,4,Es teh,1,3,0,OVO
+10:51,39,Islam,Madura,Master and doctoral degree,Government Employees,Middle Class,41,Soto,6,4,Mineral water,3,4,0,TUNAI
+10:53,53,Islam,Madura,Master and doctoral degree,Government Employees,Middle Class,33,Mie ayam bakso,3,4,Es jeruk,2,5,0,OVO
+10:56,57,Protestant,Batak,Senior High School,Government Employees,Upper Class,19,Nasi goreng,2,5,Es jeruk,2,4,1,OVO
+10:58,46,Protestant,Batak,Bachelor degree,Government Employees,Lower Class,69,Nasi goreng,2,1,Es campur,4,3,0,GOPAY
+11:00,53,Catholic,Batak,Senior High School,Enterpreneur,Upper Class,23,Mie ayam bakso,3,7,Es jeruk,2,4,1,GOPAY
+11:03,58,Catholic,Batak,Senior High School,Enterpreneur,Upper Class,25,Nasi goreng,2,10,Es campur,4,1,1,LINK AJA
+11:04,62,Islam,Java,Diploma,Enterpreneur,Lower Class,58,Nasi goreng,2,3,Es campur,4,2,1,TUNAI
+11:07,54,Islam,Madura,Diploma,Enterpreneur,Middle Class,44,Nasi goreng,2,9,Es campur,4,2,1,GOPAY
+11:08,43,Islam,Java,Bachelor degree,Enterpreneur,Middle Class,35,Bakso kuah,1,4,Es campur,4,1,0,OVO
+11:10,32,Islam,Madura,Senior High School,Enterpreneur,Lower Class,59,Ayam penyet,5,2,Es campur,4,3,1,OVO
+11:11,42,Islam,Madura,Senior High School,Independent Worker,Lower Class,65,Bakso kuah,1,10,Es jeruk,2,2,1,GOPAY
+11:13,38,Islam,Madura,Diploma,Independent Worker,Middle Class,41,Bakso kuah,1,8,Es teh,1,5,0,TUNAI
+11:17,41,Islam,Madura,Diploma,Independent Worker,Upper Class,26,Ayam penyet,5,2,Mineral water,3,5,1,OVO
